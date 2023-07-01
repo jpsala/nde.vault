@@ -21,45 +21,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e73e79de831ed8ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Mark Hayman.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d06ed78fb1fce8da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Todd Lepine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02a05fbe6e2169d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/The Secret Power of Fasting for Longevity and Healing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -255,16 +216,18 @@
   },
   "active": "5a58608a0cdd1534",
   "lastOpenFiles": [
-    "Inbox/The Secret Power of Fasting for Longevity and Healing.md",
-    "People/Valter Longo.md",
     "Inbox/Use Fasting To REVERSE YOUR AGE & Prevent Disease! (Fasting For Survival).md",
+    "Notes/justino.md",
+    "Notes/Kefir.md",
+    "Inbox/The Secret Power of Fasting for Longevity and Healing.md",
+    "Home.md",
+    "People/Valter Longo.md",
     "Inbox/How To STAY HEALTHY Until Your 105+ (FIX YOUR GUT!)  Todd LePine & Mark Hyman.md",
     "People/Todd Lepine.md",
     "People/Eric Berg.md",
     "People/Mark Hayman.md",
     "Inbox/Health.md",
     "templates/Person.md",
-    "Home.md",
     "Notes/test.md",
     "templates/Inbox.md",
     "Notes/How To STAY HEALTHY Until Your 105+ (FIX YOUR GUT!)  Todd LePine  Mark Hyman.md",
@@ -282,8 +245,6 @@
     "files/actions 1.csv",
     "Draws/YOUR LIVER AND YOUR FEET.excalidraw.md",
     "Draws/TEMP.excalidraw.md",
-    "Draws/POXIPOL.excalidraw.md",
-    "Notes/Casa.md",
     "People",
     "JS/inbox.js",
     "JS/withInboxTag.js",

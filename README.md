@@ -1,5 +1,5 @@
-# work.vault
+# nde.vault
 
 > [!INFO]
-> ## Obsidian Vault to mange work docs/notes/planning/etc
+> ## Obsidian Vault to research NDEs
 
